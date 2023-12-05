@@ -6,7 +6,7 @@ En esta práctica, se implementó un detector de matrículas usando tanto un mod
 
 El modelo se trata de una red neuronal entrenada con YOLOv8, en nuestro caso se entrenó con la gpu con 100 epochs. El dataset lo conseguimos de roboflow  [Enlace al dataset](https://universe.roboflow.com/samrat-sahoo/license-plates-f8vsn) donde nos dan las imágenes etiquetadas en el formato de YOLOv8. Este fue el resultado obtenido de la red:
 
-<a href="confusion_matrix]"><img src="https://github.com/EmilioDeniz/VC_P5/assets/72134226/c0b1ac25-13f6-46fd-a454-dd347b2d50f6" align="center" height="450" width="450" ></a>
+<a><img src="https://github.com/EmilioDeniz/VC_P5/assets/72134226/c0b1ac25-13f6-46fd-a454-dd347b2d50f6" align="center" height="450" width="450" ></a>
 
 
 ## Funcionamiento
